@@ -7,9 +7,9 @@ Telegram : @OfficialVignesh
 ##############################
 */
 $Uname = "script.xxx.lua";  //Script Name [Don't Change Name]
-$Url1 = "http://officialvignesh.000webhostapp.com/Register.php"; //REGISTER.PHP
-$Url2 = "http://officialvignesh.000webhostapp.com/User.php"; //USER.PHP
-$Url3 = "http://officialvignesh.000webhostapp.com/ActionManager.php"; //ActionManager.php
+$Url1 = "https://github.com/WebScriptDisaHub/Scriptwebdisaa/upload/main/Register.php"; //REGISTER.PHP
+$Url2 = "https://github.com/WebScriptDisaHub/Scriptwebdisaa/upload/main/User.php"; //USER.PHP
+$Url3 = "https://github.com/WebScriptDisaHub/Scriptwebdisaa/upload/main/ActionManager.php"; //ActionManager.php
 
 
 
